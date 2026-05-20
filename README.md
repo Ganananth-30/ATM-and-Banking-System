@@ -97,10 +97,6 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 # ACTIVITY DIAGRAM:
 
-
-
-
-
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
@@ -111,6 +107,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="490" height="801" alt="Screenshot 2026-05-13 163855" src="https://github.com/user-attachments/assets/628e87e3-4bf5-42dc-ad73-9603670fa8d4" />
 
 # SEQUENCE DIAGRAM
 
