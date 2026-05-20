@@ -50,12 +50,6 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
-
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -94,11 +88,6 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 <img width="1232" height="759" alt="Screenshot 2026-05-13 174241" src="https://github.com/user-attachments/assets/8dd58df3-ca1c-4db9-850c-d426d5e10420" />
 
-
-
-
-
-
 # ACTIVITY DIAGRAM:
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
@@ -111,10 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
 <img width="490" height="801" alt="Screenshot 2026-05-13 163855" src="https://github.com/user-attachments/assets/4a5fa330-0973-4ef2-94e2-18593794ef5f" />
-
-
 
 # SEQUENCE DIAGRAM
 
@@ -123,6 +109,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 <img width="774" height="778" alt="Screenshot 2026-05-13 172444" src="https://github.com/user-attachments/assets/76898b7d-2ed3-44af-bfb7-86460b670bf1" />
+
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
